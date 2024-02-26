@@ -1,4 +1,4 @@
 # dhamani-VD
 This is my first git repository
 <br>
-Author-vaibhav
+Author-vaibhav dhamani
